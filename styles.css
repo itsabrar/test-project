@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+  }
+  
+  p {
+    margin: 12px;
+    color: green;
+  }  
+  
+  div {
+    background-color: yellow;
+    border: 2px dotted #900;
+    height:100px;
+    width: 100px;
+  }
+
+  ol {
+    list-style-type:lower-alpha ; 
+    color: white; 
+      }
+
+  ul {
+        list-style-type: square;
+        color: white
+      }    
+  
+  
